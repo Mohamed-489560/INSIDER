@@ -7,6 +7,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSf1hEjRblh6T4he9L5_oJggQojYcklQ9sCxAKQA
 
 # Rules :
 
+![INSIDER SSC](https://user-images.githubusercontent.com/48302135/128719061-10a929d9-4eed-4a36-bd47-640808e5fb80.jpg)
 
 
 1- It is forbidden to share the Flags between players
