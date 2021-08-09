@@ -7,14 +7,14 @@ https://docs.google.com/forms/d/e/1FAIpQLSf1hEjRblh6T4he9L5_oJggQojYcklQ9sCxAKQA
 
 # Rules :
 
-![INSIDER SSC](https://user-images.githubusercontent.com/48302135/128719061-10a929d9-4eed-4a36-bd47-640808e5fb80.jpg)
-
-
 1- It is forbidden to share the Flags between players
 
 2- It is forbidden to send random answers, Because the flags is like this: F!ag_x{**********} OR Flag_x{**********}
 
 3- Writeup is allowed to explain the challenge and publish it after competition, provided you hide the flags
+
+![INSIDER SSC](https://user-images.githubusercontent.com/48302135/128719061-10a929d9-4eed-4a36-bd47-640808e5fb80.jpg)
+
 
 # Contact Me :
 Facebook : https://www.facebook.com/m489560
